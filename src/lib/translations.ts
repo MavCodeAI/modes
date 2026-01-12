@@ -1,0 +1,76 @@
+export const translations = {
+  en: {
+    "nav.home": "Home",
+    "nav.shop": "Shop",
+    "nav.newIn": "New In",
+    "nav.abayas": "Abayas",
+    "nav.printed": "Printed Abayas",
+    "nav.coord": "Co-ord Sets",
+    "nav.kaftans": "Kaftans",
+    "nav.sale": "Sale",
+    "nav.wholesale": "Wholesale",
+    "nav.about": "About",
+    "nav.contact": "Contact",
+    
+    "hero.title": "UAE-born. Culture-inspired.",
+    "hero.subtitle": "Handcrafted Abayas that blend traditional heritage with contemporary luxury.",
+    "hero.cta": "Shop New Drops",
+    "hero.wholesale": "Wholesale Inquiry",
+    
+    "home.newDrops": "New Drops",
+    "home.weeklyDrop": "This Week’s Fashion Drop",
+    "home.bestSellers": "Best Sellers",
+    "home.testimonials": "Testimonials",
+    "home.express": "Express Delivery",
+    "home.dispatch": "Dispatch from Dubai, UAE",
+    "home.abayaWeek": "Abaya of the Week",
+    "home.wholesaleStrip": "Wholesale & Bulk Orders",
+    "home.viewAll": "View All",
+
+    "product.wholesaleAvailable": "Wholesale Available",
+    "product.requestQuote": "Request Quote",
+    "product.addToCart": "Add to Cart",
+    
+    "footer.rights": "All rights reserved.",
+    "common.cart": "Cart",
+    "common.search": "Search",
+  },
+  ar: {
+    "nav.home": "الرئيسية",
+    "nav.shop": "التسوق",
+    "nav.newIn": "وصل حديثاً",
+    "nav.abayas": "عبايات",
+    "nav.printed": "عبايات مطبوعة",
+    "nav.coord": "أطقم متناسقة",
+    "nav.kaftans": "قفطان",
+    "nav.sale": "تخفيضات",
+    "nav.wholesale": "الجملة",
+    "nav.about": "من نحن",
+    "nav.contact": "اتصل بنا",
+
+    "hero.title": "صنع في الإمارات. مستوحى من الثقافة.",
+    "hero.subtitle": "عبايات مصنوعة يدوياً تمزج بين التراث التقليدي والفخامة المعاصرة.",
+    "hero.cta": "تسوقي الجديد",
+    "hero.wholesale": "طلب بالجملة",
+
+    "home.newDrops": "أحدث الإصدارات",
+    "home.weeklyDrop": "أزياء هذا الأسبوع",
+    "home.bestSellers": "الأكثر مبيعاً",
+    "home.testimonials": "آراء العملاء",
+    "home.express": "توصيل سريع",
+    "home.dispatch": "شحن من دبي، الإمارات",
+    "home.abayaWeek": "عباية الأسبوع",
+    "home.wholesaleStrip": "طلبات الجملة",
+    "home.viewAll": "عرض الكل",
+
+    "product.wholesaleAvailable": "متاح للجملة",
+    "product.requestQuote": "طلب سعر",
+    "product.addToCart": "أضف للسلة",
+
+    "footer.rights": "جميع الحقوق محفوظة.",
+    "common.cart": "السلة",
+    "common.search": "بحث",
+  },
+};
+
+export type Language = "en" | "ar";
