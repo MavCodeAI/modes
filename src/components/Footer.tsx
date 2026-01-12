@@ -59,11 +59,11 @@ export function Footer() {
               </li>
               <li className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-accent shrink-0" />
-                <span>+971 50 123 4567</span>
+                <span>+971 55 602 0293</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-accent shrink-0" />
-                <span>info@modestway.ae</span>
+                <span>modestwayfashion@gmail.com</span>
               </li>
             </ul>
           </div>

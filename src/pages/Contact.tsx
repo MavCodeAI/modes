@@ -54,8 +54,8 @@ return (
                 </p>
                 <div className="space-y-4">
                     <p><strong>Address:</strong> Dubai Design District, Building 7, UAE</p>
-                    <p><strong>Email:</strong> info@modestway.ae</p>
-                    <p><strong>Phone:</strong> +971 50 123 4567</p>
+                    <p><strong>Email:</strong> modestwayfashion@gmail.com</p>
+                    <p><strong>Phone:</strong> +971 55 602 0293</p>
                 </div>
             </div>
             <div className="bg-secondary/20 p-8 rounded-lg">
