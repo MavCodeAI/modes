@@ -26,6 +26,7 @@ const About = lazy(() => import("@/pages/About"));
 const Contact = lazy(() => import("@/pages/Contact"));
 const FAQ = lazy(() => import("@/pages/FAQ"));
 const SizeGuide = lazy(() => import("@/pages/SizeGuide"));
+const Profile = lazy(() => import("@/pages/Profile"));
 
 // Wholesale Pages
 const Wholesale = lazy(() => import("@/pages/Wholesale"));
@@ -93,6 +94,11 @@ function AppRouter() {
         <Route path="/size-guide">
           <Suspense fallback={<PageLoader />}>
             <SizeGuide />
+          </Suspense>
+        </Route>
+        <Route path="/profile">
+          <Suspense fallback={<PageLoader />}>
+            <Profile />
           </Suspense>
         </Route>
 
